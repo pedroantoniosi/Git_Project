@@ -1,3 +1,4 @@
+*-*
 Olá Mundo, esse projeto ensina você a usar o Git/Github.
 
 
