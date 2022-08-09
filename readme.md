@@ -1,4 +1,4 @@
-Olá Mundo, esse projeto ensina você a usar o Git/Github. *-*
+Hello World, esse projeto ensina você a usar o Git/Github. *-*
 
 
  *Git Config (Git p/ GitHub)*
